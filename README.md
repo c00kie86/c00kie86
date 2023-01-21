@@ -41,7 +41,7 @@
 
 ###
 
-[<img display="inline-block" src="https://cdn.simpleicons.org/codesandbox" width="48" height="32" alt="codesandbox logo" />][codesandbox]
+[<img display="inline-block" src="https://cdn.simpleicons.org/codesandbox/auto" width="48" height="32" alt="codesandbox logo" />][codesandbox]
 [<img display="inline-block" src="https://cdn.simpleicons.org/linkedin" width="48" height="32" alt="linkedin logo" />][linkedin]
 [<img display="inline-block" src="https://cdn.simpleicons.org/behance" width="48" height="32" alt="behance logo" />][behance]
 
