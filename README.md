@@ -46,7 +46,7 @@
   <img alt="codesandbox logo" width="52" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codesandbox.svg">
 </picture>
 
-[<img display="inline-block" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codesandbox.svg" width="52" height="40" alt="codesandbox logo" />][codesandbox]
+[<img display="inline-block" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codesandbox.svg/white" width="52" height="40" alt="codesandbox logo" />][codesandbox]
 [<img display="inline-block" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="52" height="40" alt="linkedin logo" />][linkedin]
 [<img display="inline-block" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" width="52" height="40" alt="behance logo" />][behance]
 
