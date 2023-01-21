@@ -43,7 +43,8 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" width="48" height="32" srcset="https://cdn.simpleicons.org/codesandbox/white">
-  <img alt="codesandbox logo" width="48" height="32" src="https://cdn.simpleicons.org/codesandbox/black">
+  <source media="(prefers-color-scheme: light)" width="48" height="32" srcset="https://cdn.simpleicons.org/codesandbox/black">
+  <img alt="codesandbox logo" width="48" height="32" src="https://cdn.simpleicons.org/codesandbox/white">
 </picture>
 
 [<img display="inline-block" src="https://cdn.simpleicons.org/codesandbox/white" width="48" height="32" alt="codesandbox logo" />][codesandbox]
