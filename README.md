@@ -41,8 +41,8 @@
 
 ###
 <picture>
-  <source media="(prefers-color-scheme: dark)" style="filter: invert(100%)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codesandbox.svg">
-  <source media="(prefers-color-scheme: light)" style="filter: invert(0%)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codesandbox.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codesandbox.svg/#ffffff">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codesandbox.svg/#000000">
   <img alt="codesandbox logo" width="52" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codesandbox.svg">
 </picture>
 
