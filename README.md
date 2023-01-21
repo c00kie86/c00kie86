@@ -27,12 +27,12 @@
 ###
 
 <div align="left" dir="auto">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/javascript.svg" style="filter: invert(100%)" width="52" height="40" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/typescript.svg" style="filter: invert(100%)" width="52" height="40" alt="typescript logo" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/react.svg" style="filter: invert(100%)" width="52" height="40" alt="react logo" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/nodedotjs.svg" style="filter: invert(100%)" width="52" height="40" alt="nodejs logo" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/express.svg" style="filter: invert(100%)" width="52" height="40" alt="express logo" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/nextdotjs.svg" style="filter: invert(100%)" width="52" height="40" alt="nextjs logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/javascript.svg" width="52" height="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/typescript.svg" width="52" height="40" alt="typescript logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/react.svg" width="52" height="40" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/nodedotjs.svg" width="52" height="40" alt="nodejs logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/express.svg" width="52" height="40" alt="express logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/nextdotjs.svg" width="52" height="40" alt="nextjs logo" />
 </div>
 
 ###
@@ -41,14 +41,14 @@
 
 ###
 
-[<img display="inline-block" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codesandbox.svg" style="filter: invert(100%)" width="52" height="40" alt="codesandbox logo" />][codesandbox]
-[<img display="inline-block" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="filter: invert(100%)" width="52" height="40" alt="linkedin logo" />][linkedin]
-[<img display="inline-block" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" style="filter: invert(100%)" width="52" height="40" alt="behance logo" />][behance]
+[<img display="inline-block" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codesandbox.svg" width="52" height="40" alt="codesandbox logo" />][codesandbox]
+[<img display="inline-block" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="52" height="40" alt="linkedin logo" />][linkedin]
+[<img display="inline-block" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" width="52" height="40" alt="behance logo" />][behance]
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=c00kie86&count_private=true" style="filter: invert(100%)" alt="My GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=c00kie86&count_private=true" alt="My GitHub stats" />
 </div>
 
 ###
