@@ -26,13 +26,13 @@
 
 ###
 
-<div align="left" class="Header-link">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/javascript.svg" width="52" height="40" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/typescript.svg" width="52" height="40" alt="typescript logo" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/react.svg" width="52" height="40" alt="react logo" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/nodedotjs.svg" width="52" height="40" alt="nodejs logo" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/express.svg" width="52" height="40" alt="express logo" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/nextdotjs.svg" width="52" height="40" alt="nextjs logo" />
+<div align="left">
+  <img src="https://cdn.simpleicons.org/javascript/white" width="48" height="32" alt="javascript logo" />
+  <img src="https://cdn.simpleicons.org/typescript/white" width="48" height="32" alt="typescript logo" />
+  <img src="https://cdn.simpleicons.org/react/white" width="48" height="32" alt="react logo" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/white" width="48" height="32" alt="nodejs logo" />
+  <img src="https://cdn.simpleicons.org/express/white" width="48" height="32" alt="express logo" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/white" width="48" height="32" alt="nextjs logo" />
 </div>
 
 ###
@@ -40,20 +40,20 @@
 <h3 align="left">Social media</h3>
 
 ###
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codesandbox.svg/#ffffff">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codesandbox.svg/#000000">
-  <img alt="codesandbox logo" width="52" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codesandbox.svg">
+  <source media="(prefers-color-scheme: dark)" width="48" height="32" srcset="https://cdn.simpleicons.org/codesandbox/white">
+  <img alt="codesandbox logo" width="48" height="32" src="https://cdn.simpleicons.org/codesandbox/black">
 </picture>
 
-[<img display="inline-block" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codesandbox.svg/white" width="52" height="40" alt="codesandbox logo" />][codesandbox]
-[<img display="inline-block" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="52" height="40" alt="linkedin logo" />][linkedin]
-[<img display="inline-block" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" width="52" height="40" alt="behance logo" />][behance]
+[<img display="inline-block" src="https://cdn.simpleicons.org/codesandbox/white" width="48" height="32" alt="codesandbox logo" />][codesandbox]
+[<img display="inline-block" src="https://cdn.simpleicons.org/linkedin/white" width="48" height="32" alt="linkedin logo" />][linkedin]
+[<img display="inline-block" src="https://cdn.simpleicons.org/behance/white" width="48" height="32" alt="behance logo" />][behance]
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=c00kie86&count_private=true" alt="My GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=c00kie86&count_private=true" alt="c00kie86 GitHub stats" />
 </div>
 
 ###
