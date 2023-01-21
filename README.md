@@ -40,10 +40,9 @@
 <h3 align="left">Social media</h3>
 
 ###
-
 <picture>
-  <source media="(prefers-color-scheme: dark; filter: invert(100%))" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codesandbox.svg">
-  <source media="(prefers-color-scheme: light; filter: invert(0%))" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codesandbox.svg">
+  <source media="(prefers-color-scheme: dark)" style="filter: invert(100%)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codesandbox.svg">
+  <source media="(prefers-color-scheme: light)" style="filter: invert(0%)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codesandbox.svg">
   <img alt="codesandbox logo" width="52" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codesandbox.svg">
 </picture>
 
