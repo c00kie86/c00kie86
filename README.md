@@ -26,7 +26,7 @@
 
 ###
 
-<div align="left" dir="auto">
+<div align="left" class="Header-link">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/javascript.svg" width="52" height="40" alt="javascript logo" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/typescript.svg" width="52" height="40" alt="typescript logo" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/react.svg" width="52" height="40" alt="react logo" />
