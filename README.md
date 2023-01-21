@@ -1,4 +1,73 @@
-### Hi there 👋
+<style>
+.color-invert
+{
+  filter: invert(100%);
+  margin-left:5px;
+  margin-right:5px;
+}
+.svg-symbol {
+    color: var(--color-fg-default)
+}
+</style>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/c00kie86/c00kie86/d310dad19bf768d82c5eaf9cba6f2c762f0700ff/github1600x480.png" height="auto" width="100%" alt="c00kie86 background" />
+</div>
+
+###
+
+<h1 align="left">c00kie86@host:~$ whoami</h1>
+
+###
+
+<p align="left">I'm a junior software developer...</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">📚 I'm currently learning programming...</p>
+
+###
+
+<h3 align="left">I code with</h3>
+
+###
+
+<div align="left" class="Header-link">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/javascript.svg" height="40" width="52" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/typescript.svg" height="40" width="52" alt="typescript logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/react.svg" height="40" width="52" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/nodedotjs.svg" height="40" width="52" alt="nodejs logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/express.svg" class="svg-symbol" height="40" width="52" alt="express logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/nextdotjs.svg" class="svg-symbol" height="40" width="52" alt="nextjs logo" />
+</div>
+
+###
+
+<h3 align="left">Social media</h3>
+
+###
+
+[<img display="inline-block" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codesandbox.svg" class="color-invert" width="52" height="40" alt="codesandbox logo" />][codesandbox]
+[<img display="inline-block" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" class="svg-symbol" width="52" height="40" alt="linkedin logo" />][linkedin]
+[<img display="inline-block" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" class="svg-symbol" width="52" height="40" alt="behance logo" />][behance]
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=c00kie86&count_private=true" class="color-invert" alt="My GitHub stats" />
+</div>
+
+###
+
+[codesandbox]: https://codesandbox.io/u/c00kie86/
+[linkedin]: https://www.linkedin.com/in/c00kie86/
+[behance]: https://behance.net/c00kie86/
 
 <!--
 **c00kie86/c00kie86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
