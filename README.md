@@ -27,12 +27,12 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/javascript/white" width="48" height="32" alt="javascript logo" />
-  <img src="https://cdn.simpleicons.org/typescript/white" width="48" height="32" alt="typescript logo" />
-  <img src="https://cdn.simpleicons.org/react/white" width="48" height="32" alt="react logo" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/white" width="48" height="32" alt="nodejs logo" />
-  <img src="https://cdn.simpleicons.org/express/white" width="48" height="32" alt="express logo" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/white" width="48" height="32" alt="nextjs logo" />
+  <img src="https://cdn.simpleicons.org/javascript" width="48" height="32" alt="javascript logo" />
+  <img src="https://cdn.simpleicons.org/typescript" width="48" height="32" alt="typescript logo" />
+  <img src="https://cdn.simpleicons.org/react" width="48" height="32" alt="react logo" />
+  <img src="https://cdn.simpleicons.org/nodedotjs" width="48" height="32" alt="nodejs logo" />
+  <img src="https://cdn.simpleicons.org/express" width="48" height="32" alt="express logo" />
+  <img src="https://cdn.simpleicons.org/nextdotjs" width="48" height="32" alt="nextjs logo" />
 </div>
 
 ###
@@ -47,9 +47,9 @@
   <img alt="codesandbox logo" width="48" height="32" src="https://cdn.simpleicons.org/codesandbox">
 </picture>
 
-[<img display="inline-block" src="https://cdn.simpleicons.org/codesandbox/white" width="48" height="32" alt="codesandbox logo" />][codesandbox]
-[<img display="inline-block" src="https://cdn.simpleicons.org/linkedin/white" width="48" height="32" alt="linkedin logo" />][linkedin]
-[<img display="inline-block" src="https://cdn.simpleicons.org/behance/white" width="48" height="32" alt="behance logo" />][behance]
+[<img display="inline-block" src="https://cdn.simpleicons.org/codesandbox" width="48" height="32" alt="codesandbox logo" />][codesandbox]
+[<img display="inline-block" src="https://cdn.simpleicons.org/linkedin" width="48" height="32" alt="linkedin logo" />][linkedin]
+[<img display="inline-block" src="https://cdn.simpleicons.org/behance" width="48" height="32" alt="behance logo" />][behance]
 
 ###
 
