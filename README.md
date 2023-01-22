@@ -167,14 +167,3 @@
 </div>
 
 ###
-
-<ol class="d-flex flex-wrap list-style-none gutter-condensed mb-2">
-  <li class="mb-3 d-flex flex-content-stretch col-12 col-md-6">
-    <img alt="c00kie86 GitHub top-langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=c00kie86&show_icons=true&locale=en&layout=compact&theme=transparent" />
-  </li>
-  <li class="mb-3 d-flex flex-content-stretch col-12 col-md-6">
-    <img alt="c00kie86 GitHub stats" src="https://github-readme-stats.vercel.app/api?username=c00kie86&show_icons=true&locale=en&layout=compact&theme=transparent" />
-  </li>
-</ol>
-
-###
