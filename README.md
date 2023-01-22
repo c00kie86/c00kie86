@@ -27,12 +27,30 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/javascript" width="48" height="32" alt="javascript logo" />
-  <img src="https://cdn.simpleicons.org/typescript" width="48" height="32" alt="typescript logo" />
-  <img src="https://cdn.simpleicons.org/react" width="48" height="32" alt="react logo" />
-  <img src="https://cdn.simpleicons.org/nodedotjs" width="48" height="32" alt="nodejs logo" />
-  <img src="https://cdn.simpleicons.org/express" width="48" height="32" alt="express logo" />
-  <img src="https://cdn.simpleicons.org/nextdotjs" width="48" height="32" alt="nextjs logo" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/javascript">
+    <img alt="javascript" width="48" height="32" src="https://cdn.simpleicons.org/javascript">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/typescript">
+    <img alt="typescript" width="48" height="32" src="https://cdn.simpleicons.org/typescript">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/react">
+    <img alt="react" width="48" height="32" src="https://cdn.simpleicons.org/react">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nodejs">
+    <img alt="nodejs" width="48" height="32" src="https://cdn.simpleicons.org/nodejs">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express">
+    <img alt="express" width="48" height="32" src="https://cdn.simpleicons.org/express">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextjs">
+    <img alt="nextjs" width="48" height="32" src="https://cdn.simpleicons.org/nextjs">
+  </picture>
 </div>
 
 ###
@@ -41,9 +59,40 @@
 
 ###
 
-[<img display="inline-block" src="https://cdn.simpleicons.org/codesandbox/auto" width="48" height="32" alt="codesandbox logo" />][codesandbox]
-[<img display="inline-block" src="https://cdn.simpleicons.org/linkedin" width="48" height="32" alt="linkedin logo" />][linkedin]
-[<img display="inline-block" src="https://cdn.simpleicons.org/behance" width="48" height="32" alt="behance logo" />][behance]
+<div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/javascript">
+    <img alt="javascript" width="48" height="32" src="https://cdn.simpleicons.org/javascript">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/typescript">
+    <img alt="typescript" width="48" height="32" src="https://cdn.simpleicons.org/typescript">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/react">
+    <img alt="react" width="48" height="32" src="https://cdn.simpleicons.org/react">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nodejs">
+    <img alt="nodejs" width="48" height="32" src="https://cdn.simpleicons.org/nodejs">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express">
+    <img alt="express" width="48" height="32" src="https://cdn.simpleicons.org/express">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextjs">
+    <img alt="nextjs" width="48" height="32" src="https://cdn.simpleicons.org/nextjs">
+  </picture>
+</div>
+
+[<img display="inline-block" alt="codesandbox" width="48" height="32" src="https://cdn.simpleicons.org/codesandbox" />](codesandbox)
+[<img display="inline-block" alt="linkedin" width="48" height="32" src="https://cdn.simpleicons.org/linkedin" />](linkedin)
+[<img display="inline-block" alt="behance" width="48" height="32" src="https://cdn.simpleicons.org/behance" />](behance)
+
+
+![codesandbox-light](https://cdn.simpleicons.org/codesandbox#gh-dark-mode-only)
+![codesandbox-dark](https://cdn.simpleicons.org/codesandbox#gh-light-mode-only)
 
 ###
 
