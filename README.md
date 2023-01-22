@@ -28,28 +28,41 @@
 
 <div align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/javascript#gh-dark-mode-only">
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/javascript/ffffffb3">
     <img alt="javascript" width="48" height="32" src="https://cdn.simpleicons.org/javascript">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/typescript#gh-dark-mode-only">
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/typescript/ffffffb3">
     <img alt="typescript" width="48" height="32" src="https://cdn.simpleicons.org/typescript">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/react#gh-dark-mode-only">
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/react/ffffffb3">
     <img alt="react" width="48" height="32" src="https://cdn.simpleicons.org/react">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nodedotjs#gh-dark-mode-only">
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nodedotjs/ffffffb3">
     <img alt="nodedotjs" width="48" height="32" src="https://cdn.simpleicons.org/nodedotjs">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express#gh-dark-mode-only">
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/ffffffb3">
     <img alt="express" width="48" height="32" src="https://cdn.simpleicons.org/express">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs#gh-dark-mode-only">
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffffb3">
     <img alt="nextdotjs" width="48" height="32" src="https://cdn.simpleicons.org/nextdotjs">
+  </picture>
+</div>
+
+###
+
+<h3 align="left">Databases</h3>
+
+###
+
+<div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mysql/ffffffb3">
+    <img alt="mysql" width="48" height="32" src="https://cdn.simpleicons.org/mysql">
   </picture>
 </div>
 
@@ -59,25 +72,34 @@
 
 ###
 
-[<img display="inline-block" alt="codesandbox" width="48" height="32" src="https://cdn.simpleicons.org/codesandbox" />](codesandbox)
-[<img display="inline-block" alt="linkedin" width="48" height="32" src="https://cdn.simpleicons.org/linkedin" />](linkedin)
-[<img display="inline-block" alt="behance" width="48" height="32" src="https://cdn.simpleicons.org/behance" />](behance)
-
-
-![codesandbox-light](https://cdn.simpleicons.org/codesandbox#gh-dark-mode-only)
-![codesandbox-dark](https://cdn.simpleicons.org/codesandbox#gh-light-mode-only)
-
-###
-
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=c00kie86&count_private=true" alt="c00kie86 GitHub stats" />
+  <a href="https://codesandbox.io/u/c00kie86/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/codesandbox/ffffffb3">
+      <img alt="codesandbox" width="48" height="32" src="https://cdn.simpleicons.org/codesandbox">
+    </picture>
+  </a>
+  <a href="https://www.linkedin.com/in/c00kie86/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linkedin/ffffffb3">
+      <img alt="linkedin" width="48" height="32" src="https://cdn.simpleicons.org/linkedin">
+    </picture>
+  </a>
+  <a href="https://behance.net/c00kie86/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/behance/ffffffb3">
+      <img alt="behance" width="48" height="32" src="https://cdn.simpleicons.org/behance">
+    </picture>
+  </a>
 </div>
 
 ###
 
-[codesandbox]: https://codesandbox.io/u/c00kie86/
-[linkedin]: https://www.linkedin.com/in/c00kie86/
-[behance]: https://behance.net/c00kie86/
+<div align="left">
+  <img alt="c00kie86 GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=c00kie86&show_icons=true&locale=en&layout=compact&theme=auto" />
+</div>
+
+###
 
 <!--
 **c00kie86/c00kie86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
