@@ -28,28 +28,28 @@
 
 <div align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/javascript">
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/javascript#gh-dark-mode-only">
     <img alt="javascript" width="48" height="32" src="https://cdn.simpleicons.org/javascript">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/typescript">
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/typescript#gh-dark-mode-only">
     <img alt="typescript" width="48" height="32" src="https://cdn.simpleicons.org/typescript">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/react">
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/react#gh-dark-mode-only">
     <img alt="react" width="48" height="32" src="https://cdn.simpleicons.org/react">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nodejs">
-    <img alt="nodejs" width="48" height="32" src="https://cdn.simpleicons.org/nodejs">
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nodedotjs#gh-dark-mode-only">
+    <img alt="nodedotjs" width="48" height="32" src="https://cdn.simpleicons.org/nodedotjs">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express">
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express#gh-dark-mode-only">
     <img alt="express" width="48" height="32" src="https://cdn.simpleicons.org/express">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextjs">
-    <img alt="nextjs" width="48" height="32" src="https://cdn.simpleicons.org/nextjs">
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs#gh-dark-mode-only">
+    <img alt="nextdotjs" width="48" height="32" src="https://cdn.simpleicons.org/nextdotjs">
   </picture>
 </div>
 
@@ -58,33 +58,6 @@
 <h3 align="left">Social media</h3>
 
 ###
-
-<div align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/javascript">
-    <img alt="javascript" width="48" height="32" src="https://cdn.simpleicons.org/javascript">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/typescript">
-    <img alt="typescript" width="48" height="32" src="https://cdn.simpleicons.org/typescript">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/react">
-    <img alt="react" width="48" height="32" src="https://cdn.simpleicons.org/react">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nodejs">
-    <img alt="nodejs" width="48" height="32" src="https://cdn.simpleicons.org/nodejs">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express">
-    <img alt="express" width="48" height="32" src="https://cdn.simpleicons.org/express">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextjs">
-    <img alt="nextjs" width="48" height="32" src="https://cdn.simpleicons.org/nextjs">
-  </picture>
-</div>
 
 [<img display="inline-block" alt="codesandbox" width="48" height="32" src="https://cdn.simpleicons.org/codesandbox" />](codesandbox)
 [<img display="inline-block" alt="linkedin" width="48" height="32" src="https://cdn.simpleicons.org/linkedin" />](linkedin)
