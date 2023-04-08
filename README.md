@@ -19,7 +19,7 @@
 
 <!-- info list -->
 <ul class="list-style-none">
-  <li>🍗 I’m currently: <strong>Learning programing</strong></li>
+  <li>🍗 Currently: <strong>I'm learning programming</strong></li>
   <li>🍺 Fun fact: <strong>I'm stuck in this place</strong></li>
   <li>📫 How to reach me: <strong>86kowalczyk@gmail.com</strong></li>
 </ul>
