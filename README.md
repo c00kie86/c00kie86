@@ -13,14 +13,13 @@
 ###
 
 <!-- description -->
-<h2 align="left">🍪 I'm beginner programmer...</h2>
+<h2 align="left">🍪 I'm programmer...</h2>
 
 ###
 
 <!-- info list -->
 <ul class="list-style-none">
   <li>🍗 Currently: <strong>I'm learning programming</strong></li>
-  <li>🍺 Fun fact: <strong>I'm stuck in this place</strong></li>
   <li>📫 How to reach me: <strong>86kowalczyk@gmail.com</strong></li>
 </ul>
 
